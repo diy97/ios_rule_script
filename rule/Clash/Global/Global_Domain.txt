@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-16 02:12:11
+# UPDATED: 2025-03-24 02:12:23
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31141
+# DOMAIN-SUFFIX: 31128
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31391
+# TOTAL: 31378
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -594,7 +594,6 @@ self.events.data.microsoft.com
 .a7sex.com
 .aa1141.com
 .aa1142.com
-.aa77kk.com
 .aaacymru.ac.uk
 .aaagradeheadphones.com
 .aaapp.cyou
@@ -1589,7 +1588,6 @@ self.events.data.microsoft.com
 .aoc.cat
 .aocc.ac.uk
 .aokwholesale.net
-.aomedia.org
 .aopcuk.ac.uk
 .aorus.com
 .aoxx69.net
@@ -2128,7 +2126,6 @@ self.events.data.microsoft.com
 .askubuntu.com
 .asmhentai.com
 .asminternational.org
-.asmr.gay
 .asmrbuluo.com
 .asn-online.org
 .asp-cc.com
@@ -2568,7 +2565,6 @@ self.events.data.microsoft.com
 .b-ok.global
 .b-ok.org
 .b3boos.com
-.b3bos.com
 .b6b33.com
 .b6fc.ac.uk
 .baa.ac.uk
@@ -4393,7 +4389,6 @@ self.events.data.microsoft.com
 .btt804.com
 .btt904.com
 .bttzyw.com
-.bttzyw.net
 .btwrdn.com
 .buba.ac.uk
 .bubbaporn.com
@@ -4424,7 +4419,6 @@ self.events.data.microsoft.com
 .builtfromebay.com
 .bukkake-jav.com
 .bukkake.link
-.bululusexdoll.com
 .bumpshare.com
 .bumptop.ca
 .bumptop.com
@@ -5937,7 +5931,6 @@ self.events.data.microsoft.com
 .cts.ac.uk
 .cttoolkit.ac.uk
 .ctv.com.tw
-.ctyun.online
 .cubo.ac.uk
 .cuc.ac.uk
 .cuckfilmswifefuck.com
@@ -7098,7 +7091,6 @@ self.events.data.microsoft.com
 .e-szigno.hu
 .e-tugra.com
 .e3an.ac.uk
-.e53w.com
 .e621.net
 .ea-anz-press.com
 .ea.com
@@ -8521,7 +8513,6 @@ self.events.data.microsoft.com
 .fgirl.ch
 .fgls.ac.uk
 .fgmtv.org
-.fi11.com
 .fi11av1.com
 .fi11tv1.com
 .fibre-diffraction.ac.uk
@@ -9632,7 +9623,6 @@ self.events.data.microsoft.com
 .gmhigher.ac.uk
 .gmims.ac.uk
 .gmms.ac.uk
-.gmnetworks.net
 .gmoney.org
 .gmsa.ac.uk
 .gnai-dh.sbs
@@ -12618,6 +12608,7 @@ self.events.data.microsoft.com
 .jiuse823.com
 .jiuse904.com
 .jiuse905.com
+.jiuzhouyihuo.com
 .jiyou520.com
 .jiyu-kobo.co.jp
 .jizzboom.com
@@ -17443,7 +17434,6 @@ self.events.data.microsoft.com
 .piapp.com.tw
 .piapro.net
 .picacg2022.com
-.picacgy.com
 .picacn.xyz
 .picacomic.xyz
 .picasa.com
@@ -18604,7 +18594,6 @@ self.events.data.microsoft.com
 .rdnet.ac.uk
 .rds-yes.buzz
 .re-net.ac.uk
-.re25.vip
 .rea-asia.com
 .rea-group.com
 .rea.design
@@ -20122,7 +20111,6 @@ self.events.data.microsoft.com
 .sneaker666.com
 .sneakerpage.net
 .sneakerskick.com
-.snjulebu.com
 .snk-corp.co.jp
 .snkplaymore.info
 .snow.me
@@ -22373,7 +22361,6 @@ self.events.data.microsoft.com
 .usvimosquitoproject.com
 .usw.ac.uk
 .utcreading.ac.uk
-.uug22.com
 .uug23.com
 .uug25.com
 .uug26.com
@@ -23254,7 +23241,6 @@ self.events.data.microsoft.com
 .vxxsred.xyz
 .w-mt.co
 .w.wiki
-.w0512.com
 .w6un.com
 .wa.me
 .waa.tw
@@ -23981,7 +23967,6 @@ self.events.data.microsoft.com
 .xn--203-4g6em5t.com
 .xn--204-4g6em5t.com
 .xn--205-4g6em5t.com
-.xn--2vxsp6vi4j.com
 .xn--3et96bj49ahpq.com
 .xn--4vq475g.com
 .xn--4vq477m.com
@@ -24112,7 +24097,6 @@ self.events.data.microsoft.com
 .xtracloud.net
 .xtubebdsm.com
 .xtubezoo.com
-.xu97.vip
 .xujan.com
 .xv1.monster
 .xvds.tv
@@ -25342,6 +25326,7 @@ self.events.data.microsoft.com
 .aol.com
 .aolcdn.com
 .aolnews.com
+.aomedia.org
 .aomiwang.com
 .ap.org
 .apache.org
@@ -26703,6 +26688,7 @@ self.events.data.microsoft.com
 .fandom.com
 .fangbinxing.com
 .fangeming.com
+.fangeming.comffvpn.com
 .fangeqiang.com
 .fanglizhi.info
 .fangmincn.org
@@ -29136,6 +29122,7 @@ self.events.data.microsoft.com
 .pp.ua
 .ppy.sh
 .prayforchina.net
+.prcleader.org
 .premeforwindows7.com
 .premproxy.com
 .presentation.new

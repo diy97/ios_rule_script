@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-16 02:12:29
+# UPDATED: 2025-03-24 02:12:42
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6260
+# DOMAIN-SUFFIX: 6263
 # IP-CIDR: 97
 # USER-AGENT: 8
-# TOTAL: 6402
+# TOTAL: 6405
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -345,6 +345,7 @@
 .aol.com
 .aolcdn.com
 .aolnews.com
+.aomedia.org
 .aomiwang.com
 .ap.org
 .apache.org
@@ -1717,6 +1718,7 @@
 .fandom.com
 .fangbinxing.com
 .fangeming.com
+.fangeming.comffvpn.com
 .fangeqiang.com
 .fanglizhi.info
 .fangmincn.org
@@ -4152,6 +4154,7 @@
 .pp.ua
 .ppy.sh
 .prayforchina.net
+.prcleader.org
 .premeforwindows7.com
 .premproxy.com
 .presentation.new
